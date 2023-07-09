@@ -1,11 +1,11 @@
 # Tic Tac Toe Game
 ## Features -
 
-### Two player based game (Welcome message)
-![](/imagesDesc/1.PNG)
-
 ### Requires players name before starting, clicking the start button or playing the game throws an error
 ![](/imagesDesc/no_name_error.PNG)
+
+### Two player based game (Welcome message)
+![](/imagesDesc/1.PNG)
 
 ### Checks for the winner or if the match is tied
 #### When player wins:

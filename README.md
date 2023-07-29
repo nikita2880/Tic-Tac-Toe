@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-## Features :
+## Features:
 
 ### Requires players name before starting, clicking the start button or playing the game throws an error
 ![](/imagesDesc/no_name_error.PNG)
